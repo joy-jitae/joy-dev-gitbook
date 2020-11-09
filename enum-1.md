@@ -8,8 +8,6 @@ public enum RoleType {
 }
 ```
 
-
-
 ```text
 package jpabook.start;
 
